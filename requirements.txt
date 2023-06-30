@@ -1,0 +1,4 @@
+torch==1.13.0+cu116
+transformers==4.24.0
+tqdm==4.64.1
+sklearn==0.0.post1
